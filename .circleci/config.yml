@@ -1,1 +1,24 @@
-config.yml
+version: 2
+jobs:
+  build:
+    docker:
+      - image: andersonopt/hugo
+
+    steps:
+      - checkout
+
+      - run:
+          name: Greeting
+          command: echo Hello, world.
+
+      - run:
+          name: Print the Current Time
+          command: date
+
+      - run:
+          name: Hugo build
+          command: hugo
+
+      - run:
+          name: AWS Sync
+          command: aws sync public s3://meetmeinthemountains.com/
