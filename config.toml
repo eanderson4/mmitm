@@ -25,7 +25,7 @@ PygmentsCodeFences = true
 PygmentsUseClasses = true    # required for shhighlight shortcode
 
 # service plugins
-disqusShortname = ""         # disqus_shortname
+disqusShortname = "meetmeinthemountains-com"         # disqus_shortname
 googleAnalytics = ""         # UA-XXXXXXXX-X
 
 # language support # en / zh-tw / other... translations present in i18n/
@@ -64,7 +64,7 @@ defaultContentLanguageInSubdir = true
   headerImage = "images/background.jpg"
   showAuthorCard = true # Whether to show author information below the article
 
-  showMenuLanguages = true
+  showMenuLanguages = false
 
   autoLoadComments = false # auto load comment when scrolling down
 
@@ -79,7 +79,7 @@ defaultContentLanguageInSubdir = true
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
-  customCSS = []             # if ['custom.css'], load '/static/css/custom.css' file
+  customCSS = ['custom.css']             # if ['custom.css'], load '/static/css/custom.css' file
   customJS = []              # if ['custom.js'], load '/static/js/custom.js' file
 
 # ------------------------------------- #

@@ -70,6 +70,9 @@ function initMap() {
 				lat:parseFloat(post.getAttribute('data-lat')),
 				lng:parseFloat(post.getAttribute('data-lng')),
 				icon:post.getAttribute('data-icon'),
+        csh:post.getAttribute('data-csh'),
+        ref:post.getAttribute('data-ref'),
+        refname:post.getAttribute('data-refname'),
 				url:post.getAttribute('data-url'),
 				title:post.getAttribute('data-title')
 			}
@@ -83,30 +86,61 @@ function initMap() {
           icon:icon[attr.icon]
         })
         console.log('Marker')
-				markers.push(marker);
+				markers.push({
+          info: attr,
+          element: marker
+        });
 			}
 		}
 	})
 
-  console.log('Markers',markers);
 
- 		var contentString = '<div id="content">'+
-            '<h1 id="firstHeading" class="firstHeading">Hidden Valley</h1>'+
-            '<div id="bodyContent">'+
-            '<p>Dates of Operation: 1955 - 1991</p>'+
-            '<p>More information <a href="2018/03/06/hidden-valley/">Hidden Valley</a></p>'+
-            '<p>Attribution: Colorado Ski History, <a href="http://www.coloradoskihistory.com/lost/skiestespark.html">'+
-            'http://www.coloradoskihistory.com/lost/skiestespark.html</a> </p>'+
-            '</div>'+
-            '</div>';
+   function wrap(tag){
+     var openTag='<'+tag+'>';
+     var closeTag='</'+tag+'>';
+     return function(inner){
+       return openTag+inner+closeTag;
+     }
+   }
 
-        var infowindow = new google.maps.InfoWindow({
-          content: contentString
-        });
+   var div=wrap('div');
+   var p=wrap('p');
+   var h1=wrap('h1');
+   function a(inner,url){
+     return '<a href="'+url+'">'+inner+'</a>';
+   }
+   function content(inner){
+     return '<div id="content">'+inner+'</div>';
+   }
+   function body(inner){
+    return '<div id="content">'+inner+'</div>'; 
+   }
+
+
 
         markers.forEach(function(marker){
-		  marker.addListener('click',function(event){
-		          infowindow.open(map, marker);
-		  });
+          var info=marker.info;
+          var title=h1(info.title);
+          var csh=info.csh?p(a('Colorado Ski History',info.csh)):'';
+          var ref=info.ref?p(a(info.refname,info.ref)):'';
+          var link=p(a(info.title +' Post',info.url));
+          
+          console.log('info',info);
+
+          var contentString=content(
+              title+
+              link+
+              csh +
+              ref
+            );
+
+
+          marker.infoWindow= new google.maps.InfoWindow({
+            content: contentString
+          });
+
+    		  marker.element.addListener('click',function(event){
+    		          marker.infoWindow.open(map, marker.element);
+    		  });
         });
 }
