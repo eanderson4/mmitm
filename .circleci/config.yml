@@ -10,7 +10,7 @@ jobs:
       - run:
           name: Greeting
           command: echo Hello, world.
-          
+
       - run:
           name: "Pull Submodules"
           command: |
@@ -26,6 +26,10 @@ jobs:
           name: Hugo build
           command: hugo
 
+      - run: 
+          name: List output
+          command: ls public/
+
       - run:
           name: AWS Sync
-          command: aws sync public s3://meetmeinthemountains.com/
+          command: aws s3 sync public s3://meetmeinthemountains.com/
