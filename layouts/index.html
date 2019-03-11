@@ -24,21 +24,27 @@
 <div class="entry-map">
     <div id="map"></div>
 </div>
+<div id="plot-points" style="display:none">
+      {{ range (where .Pages "Type" "posts")}}
+      {{.Title}}
+      <span id="plot-{{.Title}}"
+                data-lat="{{.Params.lat}}"
+                data-lng="{{.Params.lng}}"
+                data-icon="{{.Params.icon}}"
+                data-csh="{{.Params.cshUrl}}"
+                data-ref="{{.Params.refUrl}}"
+                data-refname="{{.Params.refName}}"
+                data-url="{{.URL}}"
+                data-title="{{.Title}}">
+      </span>
+      {{end}}
+    </div>
+
 <div class="archive-container">
     <div class="container content archive">
       <h2>{{ i18n "latest_posts" }}{{ if $paginator.HasPrev }} <small>- {{ i18n "page" }} {{ $paginator.PageNumber }}</small>{{ end }}</h2>
-        <dl class="row" id="latestPosts">
+        <dl class="row" id="latest-posts">
             {{ range $paginator.Pages -}} 
-            <span id="plot-{{.Title}}"
-            	data-lat="{{.Params.lat}}"
-            	data-lng="{{.Params.lng}}"
-            	data-icon="{{.Params.icon}}"
-              data-csh="{{.Params.cshUrl}}"
-              data-ref="{{.Params.refUrl}}"
-              data-refname="{{.Params.refName}}"
-            	data-url="{{.URL}}"
-            	data-title="{{.Title}}"
-            ></span>
             <dt class="col-md-3">{{ .Date.Format (.Site.Params.dateFormatToUse | default "Mon 02 January 2006") }}</dt>
             <dd class="col-md-9"><a href="{{ .URL }}">{{ .Title }} </a></dd>
             {{ end }}
