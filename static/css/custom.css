@@ -7,3 +7,7 @@
 .entry-map {
 	margin: 20px;
 }
+
+body > main > div.container.content {
+	min-height: 300px !important;
+}

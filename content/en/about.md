@@ -6,14 +6,14 @@ menu: "main"
 weight: 50
 ---
 
-Hugo is a static site engine written in Go.
+# Meet Me in the Mountains (MMitM)
 
+Meet Me in the Mountains aims to be a spot to discuss the mountains.  It will start focused on lost resorts and backcountry and perhaps expand from there.
 
-It makes use of a variety of open source projects including:
+## Lost Resorts
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
+<a href="http://coloradoskihistory.com">Colorado Ski History</a> provides an excellent recent on historical ski sites.  We want to make this information easily accessible and to be able to access it through a mapping interface.
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+## Social Aspect
+
+MMitM wants to connect like minding people.  We provide simple comment section to make notes on any post.

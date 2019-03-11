@@ -40,7 +40,7 @@ defaultContentLanguageInSubdir = true
   pages = "/:slug/"
 
 [author]                     # required
-  name = "Jane Doe"
+  name = "Sean Janssen"
 
 [sitemap]                    # required
   changefreq = "weekly"
@@ -52,7 +52,7 @@ defaultContentLanguageInSubdir = true
 # ------------------------------------- #
 
 [params]
-  since = "2017"             # Site creation time
+  since = "2018"             # Site creation time
   rssFullContent = true      # set true to use full content instead of summary
 
   # site info (optional)
@@ -129,10 +129,10 @@ defaultContentLanguageInSubdir = true
     name = "GitHub"
     weight = 10
     identifier = "github"
-    url = "https://github.com/shaform/hugo-theme-den/"
+    url = "https://github.com/eanderson4/mmitm"
 
   [[languages.en.menu.links]]
-    name = "About Me"
+    name = "Colorado Ski History"
     weight = 10
-    identifier = "about-me"
-    url = "https://github.com/shaform/hugo-theme-den/"
+    identifier = "colorado-ski-history"
+    url = "http://www.coloradoskihistory.com/"
