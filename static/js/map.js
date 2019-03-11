@@ -13,12 +13,12 @@ function initMap() {
 
   northerColoradoBounds.extend(ulCorner);
   northerColoradoBounds.extend(brCorner);
+  var bounds = new google.maps.LatLngBounds();
 
   // Set up map with bounds
   var map = new google.maps.Map(
       document.getElementById('map'), {zoom: 4});
   map.setMapTypeId(google.maps.MapTypeId.TERRAIN);
-  map.fitBounds(northerColoradoBounds);
 
 
   var icon={};
@@ -50,20 +50,34 @@ function initMap() {
 			}
       console.log('Have Post: ',attr.title);
 			if(attr.lat && attr.lng && attr.icon && attr.url && attr.title){
+        var latLng={lat:attr.lat,lng:attr.lng};
         var marker=new google.maps.Marker({
-          position: {lat:attr.lat,lng:attr.lng},
+          position: latLng,
           map:map,
           title: attr.title,
           clickable: true,
           icon:icon[attr.icon]
         })
+        bounds.extend(latLng);
 				markers.push({
+          latLng, latLng,
           info: attr,
           element: marker
         });
 			}
 		}
 	})
+
+  // Extend bounds
+  if (markers.length>0){
+    markers.forEach(function(marker){
+      bounds.extend(marker.latLng);
+      map.fitBounds(bounds);
+    })
+  }
+  else{
+    map.fitBounds(northerColoradoBounds);
+  }
 
 
    function wrap(tag){
