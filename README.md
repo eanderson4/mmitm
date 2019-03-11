@@ -36,7 +36,7 @@ hugo server -D
 
 Navigate to *localhost:1313*
 
-Make Changes 
+Make Changes
 - Add new posts in content/en/posts
 - Adjust styles or javascript in static/css or static/js
 - Adjust templates in layouts/
