@@ -136,35 +136,3 @@ defaultContentLanguageInSubdir = true
     weight = 10
     identifier = "about-me"
     url = "https://github.com/shaform/hugo-theme-den/"
-
-[languages.zh-tw]
-  languageCode = "zh-tw"
-  languageName = "繁體中文"
-  contentDir = "content/zh-tw"
-  weight = 2
-
-  [languages.zh-tw.params]
-    description = "一個簡單的佈景。"
-
-  [[languages.zh-tw.menu.main]]
-    name = "筆記"
-    weight = 10
-    identifier = "notes"
-    url = "category/notes/"
-  [[languages.zh-tw.menu.main]]
-    name = "展示"
-    weight = 20
-    identifier = "demos"
-    url = "category/demos/"
-
-  [[languages.zh-tw.menu.social]]
-    name = "GitHub"
-    weight = 10
-    identifier = "github"
-    url = "https://github.com/shaform/hugo-theme-den/"
-
-  [[languages.zh-tw.menu.links]]
-    name = "關於我"
-    weight = 10
-    identifier = "about-me"
-    url = "https://github.com/shaform/hugo-theme-den/"
