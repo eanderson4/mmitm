@@ -1,7 +1,7 @@
 # ------------------------------------- #
 # ---- General Settings --------------- #
 # ------------------------------------- #
-baseURL = "http://meetmeinthemountains.com.s3-website-us-west-2.amazonaws.com"
+baseURL = "http://meetmeinthemountains.com"
 title = "Meet Me in the Mountains"
 theme = "den"
 #enableRobotsTXT = true       # generate robots.txt
