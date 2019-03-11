@@ -32,4 +32,4 @@ jobs:
 
       - run:
           name: AWS Sync
-          command: aws s3 sync public s3://meetmeinthemountains.com/ -acl public-read
+          command: aws s3 sync public/ s3://meetmeinthemountains.com/ --acl public-read
