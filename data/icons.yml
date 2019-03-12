@@ -1,4 +1,4 @@
-backcountry:
+closed:
   url: "https://www.stonehousesigns.com/sites/default/files/products/formatted/Ski_Area_Boundary_Closed_FWJ45.jpg"
   width: 30
   height: 50
@@ -11,7 +11,7 @@ skier:
   width: 30
   height: 50
 mountain:
-  url: "https://cdn.pixabay.com/photo/2017/04/16/18/40/mountains-2235469_960_720.png"
+  url: "http://chittagongit.com//images/free-mountain-icon/free-mountain-icon-7.jpg"
   width: 50
   height: 30
 hut:

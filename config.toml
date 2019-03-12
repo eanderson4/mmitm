@@ -115,15 +115,21 @@ defaultContentLanguageInSubdir = true
   weight = 1
 
   [[languages.en.menu.main]]
-    name = "Lost Resorts"
+    name = "Lost Ski Areas"
     weight = 10
-    identifier = "lost-resort"
-    url = "category/lost-resort/"
+    identifier = "lost-ski-area"
+    url = "category/lost-ski-area/"
   [[languages.en.menu.main]]
     name = "Resorts"
     weight = 20
     identifier = "resort"
     url = "category/resort/"
+  [[languages.en.menu.main]]
+    name = "Backcountry"
+    weight = 30
+    identifier = "backcountry"
+    url = "category/backcountry/"
+
 
   [[languages.en.menu.social]]
     name = "GitHub"

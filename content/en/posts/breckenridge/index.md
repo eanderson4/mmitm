@@ -7,7 +7,7 @@ tags: ["skiing", "winter"]
 categories: ["Resort"]
 lat: 39.480511
 lng: -106.065440
-icon: mountain
+icon: skier
 refUrl: "https://www.breckenridge.com/"
 refName: Ski Area Information
 authors:
