@@ -3,22 +3,27 @@
   width: 30
   height: 50
   key: closed
+  name: Closed
 - url: "http://meetmeinthemountains.com.s3-website-us-west-2.amazonaws.com/images/skier.png"
   source: "https://cdn.pixabay.com/photo/2017/01/26/12/32/alpine-2010465_960_720.png"
   width: 30
   height: 50
   key: skier
+  name: Skier
 - url: "http://meetmeinthemountains.com.s3-website-us-west-2.amazonaws.com/images/mountain.jpg"
   width: 50
   height: 30
   source: "http://chittagongit.com//images/free-mountain-icon/free-mountain-icon-7.jpg"
   key: mountain
+  name: Mountain
 - url: "https://cdn.pixabay.com/photo/2014/04/03/11/35/hut-311917_960_720.png"
   width: 40
   height: 40
   key: hut
+  name: Hut
 - url: "https://www.stonehousesigns.com/sites/default/files/Stonehouse%20Signs%20Ski%20Sign%20Easier-Easiest%20Symbol%20Mountain%20Sign.jpg"
   width: 30
   height: 30
   key: resort
+  name: Resort
 
