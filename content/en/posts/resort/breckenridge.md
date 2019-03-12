@@ -1,18 +1,19 @@
 ---
-title: "Crested Butte"
+title: "Breckenridge"
 date: 2019-02-05
 lastmod: 2019-02-05
 draft: false
 tags: ["skiing", "winter"]
 categories: ["Resort"]
-lat: 38.898843
-lng: -106.965820
+lat: 39.480511
+lng: -106.065440
 icon: skier
-refUrl: "http://www.skicb.com/"
+refUrl: "https://www.breckenridge.com/"
 refName: Ski Area Information
 resources:
 - name: header
-  src: 'header.jpg'
+  src: 'breckenridge.jpg'
 ---
 
-Crested Butte...
+Breckenridge
+
