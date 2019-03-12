@@ -7,7 +7,7 @@ tags: ["skiing", "winter"]
 categories: ["Resort"]
 lat: 39.680397
 lng:  -105.897376
-icon: resort
+icon: skier
 refUrl: "https://skiloveland.com/"
 refName: Ski Area Information
 authors:

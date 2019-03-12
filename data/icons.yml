@@ -1,0 +1,21 @@
+backcountry:
+  url: "https://www.stonehousesigns.com/sites/default/files/products/formatted/Ski_Area_Boundary_Closed_FWJ45.jpg"
+  width: 30
+  height: 50
+resort:
+  url: "https://www.stonehousesigns.com/sites/default/files/Stonehouse%20Signs%20Ski%20Sign%20Easier-Easiest%20Symbol%20Mountain%20Sign.jpg"
+  width: 30
+  height: 30
+skier:
+  url: "https://cdn.pixabay.com/photo/2017/01/26/12/32/alpine-2010465_960_720.png"
+  width: 30
+  height: 50
+mountain:
+  url: "https://cdn.pixabay.com/photo/2017/04/16/18/40/mountains-2235469_960_720.png"
+  width: 50
+  height: 30
+hut:
+  url: "https://cdn.pixabay.com/photo/2014/04/03/11/35/hut-311917_960_720.png"
+  width: 40
+  height: 40
+

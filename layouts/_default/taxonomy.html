@@ -19,6 +19,16 @@
 {{ define "main" }}
 <div class="entry-map">
     <div id="map"></div>
+    <div id="plot-icons" style="display:none">
+      {{ range $key, $value := .Site.Data.icons}}
+      <span id="icon-{{$key}}"
+                data-url="{{$value.url}}"
+                data-key="{{$key}}"
+                data-width="{{$value.width}}"
+                data-height="{{$value.height}}">
+      </span>
+      {{end}}
+    </div>
     <div id="plot-points" style="display:none">
       {{ range (where .Pages "Type" "posts")}}
       <span id="plot-{{.Title}}"

@@ -1,3 +1,4 @@
+
 // Initialize and add the map
 function initMap() {
   // Northern colorado view
@@ -21,18 +22,24 @@ function initMap() {
   map.setMapTypeId(google.maps.MapTypeId.TERRAIN);
 
 
+  var icons = document.getElementById('plot-icons').childNodes;
   var icon={};
-  icon.backcountry = {
-      url: 'https://www.stonehousesigns.com/sites/default/files/products/formatted/Ski_Area_Boundary_Closed_FWJ45.jpg',
-      // This marker is 20 pixels wide by 32 pixels high.
-      scaledSize: new google.maps.Size(30, 50)
-    };
-   icon.resort = {
-      url: 'https://www.stonehousesigns.com/sites/default/files/Stonehouse%20Signs%20Ski%20Sign%20Easier-Easiest%20Symbol%20Mountain%20Sign.jpg',
-      // This marker is 20 pixels wide by 32 pixels high.
-      scaledSize: new google.maps.Size(30, 30)
-    };
 
+  icons.forEach(function(iconElement){
+    if(iconElement && iconElement.id && iconElement.id.startsWith('icon')){
+      var attr={
+        url: iconElement.getAttribute('data-url'),
+        width: parseFloat(iconElement.getAttribute('data-width')),
+        height: parseFloat(iconElement.getAttribute('data-height')),
+        key: iconElement.getAttribute('data-key')
+      };
+      icon[attr.key]={
+        url: attr.url,
+        scaledSize: new google.maps.Size(attr.width,attr.height)
+      };
+    }
+  });
+  console.log('Icons: ',icon);
 	var posts = document.getElementById('plot-points').childNodes;
 	var markers=[];
 
