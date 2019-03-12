@@ -34,7 +34,7 @@ defaultContentLanguageInSubdir = true
 
 # Links format
 [permalinks]
-  posts = "/:year/:month/:day/:slug/"
+  posts = "/:slug/"
   categories = "/category/:slug/"      # required
   tags = "/tag/:slug/"                 # required
   pages = "/:slug/"
