@@ -1,0 +1,70 @@
+---
+label: LatLngIcon
+hide_body: false
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: lastmod
+  label: Lastmod
+  type: datetime
+  hidden: false
+  default: ''
+- name: tags
+  label: Tags
+  type: tag_list
+  hidden: false
+  default: ''
+- name: categories
+  label: Categories
+  type: tag_list
+  hidden: false
+  default: ''
+- name: lat
+  label: Lat
+  type: text
+  hidden: false
+  default: ''
+- name: lng
+  label: Lng
+  type: text
+  hidden: false
+  default: ''
+- name: icon
+  label: Icon
+  type: text
+  hidden: false
+  default: ''
+- name: refUrl
+  label: Refurl
+  type: text
+  hidden: false
+  default: ''
+- name: refName
+  label: Refname
+  type: text
+  hidden: false
+  default: ''
+- name: resources
+  label: Resources
+  type: field_group_list
+  fields:
+  - name: name
+    label: Name
+    type: text
+    hidden: false
+    default: ''
+  - name: src
+    label: Src
+    type: text
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
