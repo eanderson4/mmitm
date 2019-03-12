@@ -24,12 +24,12 @@
 <div class="entry-map">
     <div id="map"></div>
     <div id="plot-icons" style="display:none">
-      {{ range $key, $value := .Site.Data.icons}}
-      <span id="icon-{{$key}}"
-                data-url="{{$value.url}}"
-                data-key="{{$key}}"
-                data-width="{{$value.width}}"
-                data-height="{{$value.height}}">
+      {{ range .Site.Data.icons}}
+      <span id="icon-{{.key}}"
+                data-url="{{.url}}"
+                data-key="{{.key}}"
+                data-width="{{.width}}"
+                data-height="{{.height}}">
       </span>
       {{end}}
     </div>

@@ -1,3 +1,4 @@
+      
 {{ define "title" }}{{ .Title }} · {{ .Site.Title }}{{ end }}
 {{ define "header" }}
 <div class="container header-wrapper">
@@ -20,12 +21,12 @@
 <div class="entry-map">
     <div id="map"></div>
     <div id="plot-icons" style="display:none">
-      {{ range $key, $value := .Site.Data.icons}}
-      <span id="icon-{{$key}}"
-                data-url="{{$value.url}}"
-                data-key="{{$key}}"
-                data-width="{{$value.width}}"
-                data-height="{{$value.height}}">
+      {{ range .Site.Data.icons}}
+      <span id="icon-{{.key}}"
+                data-url="{{.url}}"
+                data-key="{{.key}}"
+                data-width="{{.width}}"
+                data-height="{{.height}}">
       </span>
       {{end}}
     </div>
@@ -44,7 +45,6 @@
       {{end}}
     </div>
 </div>
-
 {{- $paginator := .Paginate (where .Data.Pages "Type" "posts") }}
 <div class="archive-container">
     <div class="container content archive">
@@ -60,7 +60,8 @@
 {{ partial "pagination.html" . }}
 
 <script src="{{ "js/map.js" | absURL }}"></script>
-<script async defer
+<script 
   src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDvHyzJqH5njikwNOwQTn9flbwY1isLWsQ&callback=initMap">
 </script>
+
 {{ end }}
