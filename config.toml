@@ -111,7 +111,7 @@ defaultContentLanguageInSubdir = true
 [languages.en]
   languageCode = "en"
   languageName = "English"
-  contentDir = "content/en"
+  contentDir = "content/"
   weight = 1
 
   [[languages.en.menu.main]]
