@@ -108,31 +108,27 @@ function initMap() {
     return '<div id="content">'+inner+'</div>'; 
    }
 
+   var infoWindow=new google.maps.InfoWindow();
 
+    markers.forEach(function(marker){
+      var info=marker.info;
+      var title=h1(info.title);
+      var csh=info.csh?p(a('Colorado Ski History',info.csh)):'';
+      var ref=info.ref?p(a(info.refname,info.ref)):'';
+      var link=p(a(info.title +' Post',info.url));
+      
+      console.log('Marker: ',info.title,marker);
 
-        markers.forEach(function(marker){
-          var info=marker.info;
-          var title=h1(info.title);
-          var csh=info.csh?p(a('Colorado Ski History',info.csh)):'';
-          var ref=info.ref?p(a(info.refname,info.ref)):'';
-          var link=p(a(info.title +' Post',info.url));
-          
-          console.log('Marker: ',info.title,marker);
+      marker.content=content(
+          title+
+          link+
+          csh +
+          ref
+        );
 
-          var contentString=content(
-              title+
-              link+
-              csh +
-              ref
-            );
-
-
-          marker.infoWindow= new google.maps.InfoWindow({
-            content: contentString
-          });
-
-    		  marker.element.addListener('click',function(event){
-    		          marker.infoWindow.open(map, marker.element);
-    		  });
-        });
+		  marker.element.addListener('click',function(event){
+        infoWindow.setContent(marker.content);
+		    infoWindow.open(map, marker.element);
+		  });
+    });
 }
