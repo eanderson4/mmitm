@@ -90,6 +90,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/posts/lost-ski-area/forest-lakes.md
 - content/posts/lost-ski-area/lowell-whiteman.md
 - content/posts/lost-ski-area/holiday-hill.md
 - content/posts/lost-ski-area/broadmoor.md
