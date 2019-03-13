@@ -2,28 +2,28 @@
 closed:
   url: http://meetmeinthemountains.com.s3-website-us-west-2.amazonaws.com/images/ski-closed.jpg
   source: https://www.stonehousesigns.com/sites/default/files/products/formatted/Ski_Area_Boundary_Closed_FWJ45.jpg
-  width: 30
-  height: 50
+  width: 25
+  height: 40
   key: closed
   name: Closed
 skier:
   url: http://meetmeinthemountains.com.s3-website-us-west-2.amazonaws.com/images/skier.png
   source: https://cdn.pixabay.com/photo/2017/01/26/12/32/alpine-2010465_960_720.png
-  width: 30
-  height: 50
+  width: 25
+  height: 40
   key: skier
   name: Skier
 mountain:
   url: http://meetmeinthemountains.com.s3-website-us-west-2.amazonaws.com/images/mountain.jpg
-  width: 50
-  height: 30
+  width: 40
+  height: 25
   source: http://chittagongit.com//images/free-mountain-icon/free-mountain-icon-7.jpg
   key: mountain
   name: Mountain
 hut:
   url: http://meetmeinthemountains.com.s3-website-us-west-2.amazonaws.com/images/hut.png
-  width: 40
-  height: 40
+  width: 35
+  height: 25
   key: hut
   name: Hut
 resort:
