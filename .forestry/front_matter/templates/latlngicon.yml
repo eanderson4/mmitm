@@ -90,6 +90,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/posts/lost-ski-area/sharktooth.md
 - content/posts/lost-ski-area/pikes-peak.md
 - content/posts/lost-ski-area/squaw-pass.md
 - content/posts/lost-ski-area/mount-lugo.md
