@@ -90,6 +90,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/posts/lost-ski-area/porcupine-gulch.md
 - content/posts/lost-ski-area/marble.md
 - content/posts/lost-ski-area/sharktooth.md
 - content/posts/lost-ski-area/pikes-peak.md
