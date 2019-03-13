@@ -21,7 +21,7 @@ mountain:
   key: mountain
   name: Mountain
 hut:
-  url: http://meetmeinthemountains.com.s3-website-us-west-2.amazonaws.com/images/hut.png
+  url: http://meetmeinthemountains.com.s3-website-us-west-2.amazonaws.com/images/hut.jpg
   width: 40
   height: 40
   key: hut
