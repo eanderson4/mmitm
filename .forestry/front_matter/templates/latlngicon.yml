@@ -79,5 +79,8 @@ fields:
     default: ''
   hidden: false
   default: ''
+- type: text
+  name: cshUrl
+  label: Colorado Ski History Link
 pages:
 - content/posts/lost-ski-area/cerro-summit-tow.md
