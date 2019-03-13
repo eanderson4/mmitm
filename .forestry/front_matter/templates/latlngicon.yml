@@ -51,6 +51,7 @@ fields:
     - skier
     - mountain
     - closed
+    - hut
   label: icon
   description: Icon for the map
 - name: refUrl
@@ -58,11 +59,17 @@ fields:
   type: text
   hidden: false
   default: ''
+  description: Use this url to link to a page that is related
 - name: refName
   label: Refname
   type: text
   hidden: false
   default: ''
+  description: This will be the name used for the link in the tooltip when clicking
+    the marker
+- type: text
+  name: cshUrl
+  label: Colorado Ski History Link
 - name: resources
   label: Resources
   type: field_group_list
@@ -79,9 +86,6 @@ fields:
     default: ''
   hidden: false
   default: ''
-- type: text
-  name: cshUrl
-  label: Colorado Ski History Link
 pages:
 - content/posts/Backcountry/irwin-area.md
 - content/posts/lost-ski-area/cerro-summit-tow.md
