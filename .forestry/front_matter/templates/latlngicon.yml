@@ -87,6 +87,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/posts/resort/echo-mountain.md
 - content/posts/Huts/the-sister-s-cabin.md
 - content/posts/Backcountry/irwin-area.md
 - content/posts/lost-ski-area/cerro-summit-tow.md
