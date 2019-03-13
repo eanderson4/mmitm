@@ -1,6 +1,6 @@
 +++
 Icon = "closed"
-categories = ["Resort", "Lost Ski Area", "Backcountry"]
+categories = ["Lost Ski Area"]
 cshUrl = "http://www.coloradoskihistory.com/lost/forestlakes.html"
 date = "2019-03-13T06:00:00+00:00"
 lastmod = ""
