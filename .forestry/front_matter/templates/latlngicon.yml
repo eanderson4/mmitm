@@ -89,6 +89,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/posts/lost-ski-area/airport-hill.md
 - content/posts/lost-ski-area/baker-mountain.md
 - content/posts/lost-ski-area/dallas-divide.md
 - content/posts/resort/echo-mountain.md
