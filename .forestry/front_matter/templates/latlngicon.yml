@@ -90,6 +90,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/posts/lost-ski-area/climax-ski-area.md
 - content/posts/lost-ski-area/rimrock.md
 - content/posts/lost-ski-area/meadow-mountain.md
 - content/posts/lost-ski-area/porcupine-gulch.md
