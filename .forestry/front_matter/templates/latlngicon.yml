@@ -90,6 +90,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/posts/lost-ski-area/mount-lugo.md
 - content/posts/lost-ski-area/indian-mountain.md
 - content/posts/lost-ski-area/hoosier-pass.md
 - content/posts/lost-ski-area/forest-lakes.md
