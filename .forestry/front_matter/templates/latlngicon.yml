@@ -83,4 +83,5 @@ fields:
   name: cshUrl
   label: Colorado Ski History Link
 pages:
+- content/posts/Backcountry/irwin-area.md
 - content/posts/lost-ski-area/cerro-summit-tow.md
