@@ -1,14 +1,16 @@
 ---
-title: "About"
-date: 2017-08-20T21:38:52+08:00
-lastmod: 2017-08-28T21:41:52+08:00
-menu: "main"
+title: About
+date: 2017-08-20 13:38:52 +0000
+lastmod: 2017-08-28 13:41:52 +0000
 weight: 50
----
+menu:
+  main:
+    weight: 50
 
+---
 # Meet Me in the Mountains (MMitM)
 
-Meet Me in the Mountains aims to be a spot to discuss the mountains.  It will start focused on lost resorts and backcountry and perhaps expand from there.
+Meet Me in the Mountains aims to be a spot to discuss the mountains.  It is focused on lost resorts and backcountry and may expand from there.
 
 ## Lost Resorts
 
@@ -16,4 +18,4 @@ Meet Me in the Mountains aims to be a spot to discuss the mountains.  It will st
 
 ## Social Aspect
 
-MMitM wants to connect like minding people.  We provide simple comment section to make notes on any post.
+MMitM wants to connect like-minded people.  We provide a simple comment section to make notes on any post.
