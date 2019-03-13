@@ -79,3 +79,5 @@ fields:
     default: ''
   hidden: false
   default: ''
+pages:
+- content/posts/lost-ski-area/cerro-summit-tow.md
