@@ -14,6 +14,7 @@ fields:
   default: ''
   config:
     date_format: MM/DD/YYYY
+    time_format: h A
 - name: lastmod
   label: Lastmod
   type: datetime
