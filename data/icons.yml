@@ -32,3 +32,21 @@ resort:
   height: 30
   key: resort
   name: Resort
+crosscountry1:
+  url: http://meetmeinthemountains.com.s3-website-us-west-2.amazonaws.com/images/crosscountry-1.png
+  width: 30
+  height: 30
+  key: crosscountry1
+  name: Cross Country 1
+crosscountry2:
+  url: http://meetmeinthemountains.com.s3-website-us-west-2.amazonaws.com/images/crosscountry-2.png
+  width: 30
+  height: 30
+  key: crosscountry2
+  name: Cross Country 2
+biathlon1:
+  url: http://meetmeinthemountains.com.s3-website-us-west-2.amazonaws.com/images/biathlon-1.png
+  width: 30
+  height: 30
+  key: biathlon1
+  name: Biathlon 1
