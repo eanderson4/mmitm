@@ -55,6 +55,10 @@ fields:
     - mountain
     - closed
     - hut
+    - crosscountry1
+    - crosscountry2
+    - biathlon1
+    - biathlon2
   label: icon
   description: Icon for the map
 - name: refUrl
@@ -89,6 +93,8 @@ fields:
     default: ''
   hidden: false
   default: ''
+- type: file
+  name: resource_
 pages:
 - content/posts/lost-ski-area/conouistador-ski-area.md
 - content/posts/lost-ski-area/seven-utes.md
