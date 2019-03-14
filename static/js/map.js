@@ -99,6 +99,9 @@ function initMap() {
    var p=wrap('p');
    var h1=wrap('h1');
    function a(inner,url){
+     if(!inner || inner===""){
+       inner=url;
+     }
      return '<a href="'+url+'">'+inner+'</a>';
    }
    function content(inner){
