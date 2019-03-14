@@ -90,5 +90,6 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/posts/resort/buttermilk.md
 - content/posts/resort/beaver-creek.md
 - content/posts/resort/beaver-creek.md
