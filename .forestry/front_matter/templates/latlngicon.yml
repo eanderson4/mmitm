@@ -90,6 +90,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/posts/aspen-highlands.md
 - content/posts/resort/arapahoe-basin.md
 - content/posts/lost-ski-area/climax-ski-area.md
 - content/posts/lost-ski-area/rimrock.md
