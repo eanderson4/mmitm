@@ -90,6 +90,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/posts/lost-ski-area/conouistador-ski-area.md
 - content/posts/lost-ski-area/seven-utes.md
 - content/posts/resort/buttermilk.md
 - content/posts/resort/beaver-creek.md
