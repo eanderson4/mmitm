@@ -50,3 +50,10 @@ biathlon1:
   height: 30
   key: biathlon1
   name: Biathlon 1
+biathlon2:
+  url: http://meetmeinthemountains.com.s3-website-us-west-2.amazonaws.com/images/biathlon-2.png
+  width: 30
+  height: 30
+  key: biathlon2
+  name: Biathlon 2
+
