@@ -5,6 +5,11 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: content/posts/Huts
+  label: Huts
+  create: all
+  match: "**/*"
+- type: directory
   path: data
   label: Data
   create: all
@@ -19,6 +24,8 @@ sections:
   label: Posts
   create: all
   match: "**/*"
+- type: heading
+  label: Sections
 - type: directory
   path: content/posts/resort
   label: Resorts
@@ -26,6 +33,16 @@ sections:
   match: "**/*"
   templates:
   - latlngicon
+- type: directory
+  path: content/posts/lost-ski-area
+  label: Lost Ski Areas
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/posts/Backcountry
+  label: Backcountry
+  create: all
+  match: "**/*"
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
