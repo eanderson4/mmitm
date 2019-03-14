@@ -26,6 +26,7 @@ sections:
   label: Resorts
   create: all
   match: "**/*"
+  exclude: ".gi*"
   templates:
   - latlngicon
 - type: directory
@@ -33,16 +34,19 @@ sections:
   label: Lost Ski Areas
   create: all
   match: "**/*"
+  exclude: ".gi*"
 - type: directory
   path: content/posts/Backcountry
   label: Backcountry
   create: all
   match: "**/*"
+  exclude: ".gi*"
 - type: directory
   path: content/posts/Huts
   label: Huts
   create: all
   match: "**/*"
+  exclude: ".gi*"
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
