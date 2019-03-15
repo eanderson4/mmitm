@@ -10,11 +10,11 @@ menu:
 ---
 # Meet Me in the Mountains (MMitM)
 
-Meet Me in the Mountains aims to be a spot to discuss the mountains.  It is focused on lost resorts and backcountry and may expand from there.
+Meet Me in the Mountains is a public resource that encourages user interaction and knowledge.  The goal is to create an community that is fascinated by the history of our closed and lost ski resorts and back-country area.  
 
 ## Lost Resorts
 
-<a href="http://coloradoskihistory.com">Colorado Ski History</a> provides an excellent recent on historical ski sites.  We want to make this information easily accessible and to be able to access it through a mapping interface.
+<a href="http://coloradoskihistory.com">Colorado Ski History</a> provides an excellent historical ski sites.  MMitM's strives to make  accessible and to be able to access it through a mapping interface.
 
 ## Social Aspect
 
