@@ -96,6 +96,7 @@ fields:
 - type: file
   name: resource_
 pages:
+- content/posts/lost-ski-area/tamarron.md
 - content/posts/resort/buttermilk.md
 - content/posts/lost-ski-area/conouistador-ski-area.md
 - content/posts/lost-ski-area/seven-utes.md
