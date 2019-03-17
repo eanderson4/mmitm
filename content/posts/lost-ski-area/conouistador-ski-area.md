@@ -3,6 +3,7 @@ Icon = "closed"
 categories = ["Lost Ski Area"]
 cshUrl = ""
 date = ""
+draft = true
 lastmod = "2019-03-14T06:00:00+00:00"
 lat = 38.112248
 lng = -105.596862
