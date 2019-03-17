@@ -1,7 +1,7 @@
 +++
 Icon = "closed"
 categories = ["Lost Ski Area"]
-cshUrl = ""
+cshUrl = "http://www.coloradoskihistory.com/lost/sagebrush.html"
 date = "2019-03-16T06:00:00+00:00"
 lastmod = ""
 lat = 38.547839
