@@ -96,6 +96,7 @@ fields:
 - type: file
   name: resource_
 pages:
+- content/posts/lost-ski-area/pease-hill.md
 - content/posts/lost-ski-area/mount-bross.md
 - content/posts/lost-ski-area/maggie-s-ski-hill.md
 - content/posts/lost-ski-area/leland-jackson-carmichael-ouray-ranch-ski-hill.md
