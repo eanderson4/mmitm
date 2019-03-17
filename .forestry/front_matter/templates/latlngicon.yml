@@ -96,6 +96,7 @@ fields:
 - type: file
   name: resource_
 pages:
+- content/posts/lost-ski-area/tabernash-hill.md
 - content/posts/lost-ski-area/sportsland-valley.md
 - content/posts/lost-ski-area/snow-king-valley.md
 - content/posts/lost-ski-area/ski-trail-mountain.md
