@@ -1,8 +1,9 @@
 +++
 Icon = "closed"
 categories = ["Lost Ski Area"]
-cshUrl = ""
+cshUrl = "http://www.coloradoskihistory.com/lost/skitrailmountain.html"
 date = "2019-03-16T06:00:00+00:00"
+draft = true
 lastmod = ""
 lat = 40.19527778
 lng = "-105.95250000"
