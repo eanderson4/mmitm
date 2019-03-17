@@ -96,6 +96,7 @@ fields:
 - type: file
   name: resource_
 pages:
+- content/posts/lost-ski-area/kremming-ski-hill.md
 - content/posts/lost-ski-area/idlewild.md
 - content/posts/lost-ski-area/homewood-park.md
 - content/posts/lost-ski-area/frosty-basin.md
