@@ -96,6 +96,7 @@ fields:
 - type: file
   name: resource_
 pages:
+- content/posts/lost-ski-area/shadow-mountain.md
 - content/posts/lost-ski-area/school-hill.md
 - content/posts/lost-ski-area/sagebrush.md
 - content/posts/lost-ski-area/pease-hill.md
