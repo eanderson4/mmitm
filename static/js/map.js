@@ -76,11 +76,16 @@ function initMap() {
 	})
 
   // Extend bounds
-  if (markers.length>0){
+  if (markers.length>1){
     markers.forEach(function(marker){
       bounds.extend(marker.latLng);
       map.fitBounds(bounds);
     })
+  }
+  else if(markers.length===1){
+    bounds.extend(markers[0].latLng);
+    map.setCenter(bounds.getCenter());
+    map.setZoom(11);
   }
   else{
     map.fitBounds(northerColoradoBounds);

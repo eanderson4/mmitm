@@ -15,8 +15,6 @@ resources:
   src: 'breckenridge.jpg'
 ---
 
-Breckenridge
-
 ## Imperial Lift
 
 Testing instagram embed
@@ -27,4 +25,4 @@ Testing instagram embed
 
 A great chair.
 
-{{< instagram Bt9zOWzlTX_ >}}
+{{< instagram Bt9zOWzlTX_ hidecaption >}}
