@@ -5,14 +5,14 @@ cshUrl = ""
 date = "2019-03-18T06:00:00+00:00"
 draft = true
 lastmod = "2019-03-18T06:00:00+00:00"
-lat = 40.521223
-lng = -105.910919
+lat = 40.514044
+lng = -105.904141
 refName = ""
 refUrl = ""
 resource_ = ""
 resources = []
 tags = ["skiing", "winter"]
-title = "North Diamond Peak"
+title = "South Diamond Peak"
 
 +++
 North and South Diamond are popular back country ski area's west of Fort Collins.  Storms will roll over the Park Range Rabbit Ears pass area.  They then gain strength over the flat Walden/Park area directly east.
