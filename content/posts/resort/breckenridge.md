@@ -17,3 +17,14 @@ resources:
 
 Breckenridge
 
+## Imperial Lift
+
+Testing instagram embed
+
+{{< instagram BvHpnekn3ea >}}
+
+## E Chair
+
+A great chair.
+
+{{< instagram Bt9zOWzlTX_ >}}
