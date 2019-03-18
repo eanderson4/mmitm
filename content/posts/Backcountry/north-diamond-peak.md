@@ -15,7 +15,7 @@ tags = ["skiing", "winter"]
 title = "North Diamond Peak"
 
 +++
-North and South Diamond are popular back country ski area's west of Fort Collins.  Storms will roll over the Park Range Rabbit Ears pass area.  They then gain stregth over the flat Walden/Park area directly east.  
+North and South Diamond are popular back country ski area's west of Fort Collins.  Storms will roll over the Park Range Rabbit Ears pass area.  They then gain strength over the flat Walden/Park area directly east.
 
 When the Storm hits the Never Summer Mountain range the winds blow the snow into the Valley east.  This creates some amazing powder and skiing but is also prone to Wind slabs at the top.
 
