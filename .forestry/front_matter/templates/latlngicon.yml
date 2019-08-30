@@ -96,6 +96,7 @@ fields:
 - type: file
   name: resource_
 pages:
+- content/posts/lost-ski-area/emerald-mountain.md
 - content/posts/lost-ski-area/drowsy-water-ranch.md
 - content/posts/lost-ski-area/conouistador-ski-area.md
 - content/posts/lost-ski-area/columbine-guest-ranch-ski-hill.md
@@ -107,7 +108,6 @@ pages:
 - content/posts/lost-ski-area/hidden-valley-1.md
 - content/posts/Backcountry/north-diamond-peak-1.md
 - content/posts/Backcountry/north-diamond-peak.md
-- content/posts/lost-ski-area/emerald-mountain.md
 - content/posts/lost-ski-area/steamboat-lake-ski-area.md
 - content/posts/lost-ski-area/seven-utes.md
 - content/posts/lost-ski-area/montezuma-basin.md
