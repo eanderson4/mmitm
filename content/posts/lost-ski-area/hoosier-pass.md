@@ -13,4 +13,14 @@ tags = ["skiing", "winter"]
 title = "Hoosier Pass"
 
 +++
+Years Active:
+
+Skiable Acres:
+
+Number of Lifts:
+
+Top Elevation:
+
+Available for Exploring:
+
 May be able to access old ski area off pass to ski.
