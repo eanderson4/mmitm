@@ -96,6 +96,7 @@ fields:
 - type: file
   name: resource_
 pages:
+- content/posts/lost-ski-area/drowsy-water-ranch.md
 - content/posts/lost-ski-area/conouistador-ski-area.md
 - content/posts/lost-ski-area/columbine-guest-ranch-ski-hill.md
 - content/posts/lost-ski-area/catamount.md
@@ -123,7 +124,6 @@ pages:
 - content/posts/lost-ski-area/sportsland-valley.md
 - content/posts/lost-ski-area/pease-hill.md
 - content/posts/lost-ski-area/kremming-ski-hill.md
-- content/posts/lost-ski-area/drowsy-water-ranch.md
 - content/posts/lost-ski-area/sagebrush.md
 - content/posts/lost-ski-area/tabernash-hill.md
 - content/posts/lost-ski-area/school-hill.md
