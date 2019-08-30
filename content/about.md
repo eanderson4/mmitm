@@ -12,7 +12,7 @@ menu:
 
 First a huge THANKS to <a href="[http://coloradoskihistory.com](http://coloradoskihistory.com "http://coloradoskihistory.com")">Colorado Ski History</a> and <a href="[https://www.snowsportsmuseum.org/exhibits](https://www.snowsportsmuseum.org/exhibits "https://www.snowsportsmuseum.org/exhibits")">The Snow Sports Museum</a> Meet Me in the Mountains is a public resource that encourages user interaction by providing their knowledge.  Without the above resources, this website would be no where near as complete as it currently is.
 
-MMitM a dynamic knowledge base of all the lost ski areas.  The ultamate goal being a knowledge base that can be leveraged by back country enthusiasts, explorers, photographers, weather junkies, and historians alike.
+MMitM a dynamic knowledge base of all the lost ski areas.  The ultimate goal being a knowledge base that can be leveraged by back country enthusiasts, explorers, photographers, weather junkies, and historians alike.
 
 ## Lost Resorts
 
