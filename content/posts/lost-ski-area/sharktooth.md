@@ -13,4 +13,14 @@ tags = ["skiing", "winter"]
 title = "Sharktooth"
 
 +++
+Years Active:
+
+Skiable Acres:
+
+Number of Lifts:
+
+Top Elevation:
+
+Available for Exploring:
+
 There is an entire Facebook page that talks about the history of Sharktooth Ski Area. [https://www.facebook.com/SharktoothSkiArea/](https://www.facebook.com/SharktoothSkiArea/ "https://www.facebook.com/SharktoothSkiArea/")
