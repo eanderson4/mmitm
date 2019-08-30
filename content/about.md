@@ -10,13 +10,13 @@ menu:
 ---
 # Meet Me in the Mountains (MMitM)
 
-First a huge THANKS to <a href="[http://coloradoskihistory.com](http://coloradoskihistory.com "http://coloradoskihistory.com")">Colorado Ski History</a> and <a href="[https://www.snowsportsmuseum.org/exhibits](https://www.snowsportsmuseum.org/exhibits "https://www.snowsportsmuseum.org/exhibits")">The Snow Sports Museum</a> Meet Me in the Mountains is a public resource that encourages user interaction by providing their knowledge.  Without the above resources, this website would be no where near as complete as it currently is.
+First a huge THANKS to <a href="[http://coloradoskihistory.com](http://coloradoskihistory.com "http://coloradoskihistory.com")">Colorado Ski History</a> and <a href="[https://www.snowsportsmuseum.org/exhibits](https://www.snowsportsmuseum.org/exhibits "https://www.snowsportsmuseum.org/exhibits")">The Snow Sports Museum</a> Without the above resources, this website would be no where near as complete as it currently is without them.  
 
-MMitM a dynamic knowledge base of all the lost ski areas.  The ultimate goal being a knowledge base that can be leveraged by back country enthusiasts, explorers, photographers, weather junkies, and historians alike.
+MMitM is not just a ski history website.  At its core it is a website dedicated to preserving the rich ski history of the state.  In doing so, we also provide a resource for back country skiing, hiking, exploring, and all types of adventures.
 
 ## Lost Resorts
 
-MMitM wants to do more though.  We provides a Wiki style sites that strives to constantly learn more about lost ski areas.  Even if users don't have anything to contribute from a history standpoint, we hope to create a local form so those who have been to the area can report on (snow-pack, weather, pictures, etc)
+We provides a Wiki style sites that strives to constantly learn more about lost ski areas.  Even if users don't have anything to contribute from a history standpoint, we hope to create a local form so those who have been to the area can report on (snow-pack, weather, pictures, etc)
 
 ## Social Aspect
 
