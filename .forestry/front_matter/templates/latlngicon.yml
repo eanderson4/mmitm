@@ -96,6 +96,7 @@ fields:
 - type: file
   name: resource_
 pages:
+- content/posts/lost-ski-area/tabernash-hill.md
 - content/posts/lost-ski-area/tamarron.md
 - content/posts/lost-ski-area/tenderfoot.md
 - content/posts/lost-ski-area/town-park.md
@@ -126,7 +127,6 @@ pages:
 - content/posts/lost-ski-area/pease-hill.md
 - content/posts/lost-ski-area/kremming-ski-hill.md
 - content/posts/lost-ski-area/sagebrush.md
-- content/posts/lost-ski-area/tabernash-hill.md
 - content/posts/lost-ski-area/school-hill.md
 - content/posts/lost-ski-area/mount-bross.md
 - content/posts/lost-ski-area/maggie-s-ski-hill.md
