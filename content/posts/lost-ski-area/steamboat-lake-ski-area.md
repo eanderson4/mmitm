@@ -1,6 +1,6 @@
 +++
 Icon = "closed"
-categories = ["Resort", "Lost Ski Area", "Backcountry"]
+categories = ["Lost Ski Area", "Backcountry"]
 cshUrl = ""
 date = "2019-08-29T06:00:00+00:00"
 lastmod = "2019-08-29T06:00:00+00:00"
