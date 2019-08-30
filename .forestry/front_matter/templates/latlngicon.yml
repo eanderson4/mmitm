@@ -96,13 +96,13 @@ fields:
 - type: file
   name: resource_
 pages:
+- content/posts/lost-ski-area/hidden-valley-1.md
 - content/posts/lost-ski-area/montezuma-basin.md
 - content/posts/lost-ski-area/Grand Lake Ski Area.md
 - content/posts/lost-ski-area/emerald-mountain.md
 - content/posts/resort/cranor-hill.md
 - content/posts/lost-ski-area/catamount.md
 - content/posts/resort/howelsen-hill-ski-area.md
-- content/posts/lost-ski-area/hidden-valley-1.md
 - content/posts/lost-ski-area/steamboat-lake-ski-area.md
 - content/posts/lost-ski-area/stagecoach.md
 - content/posts/lost-ski-area/bowes-hill.md
