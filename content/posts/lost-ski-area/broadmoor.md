@@ -10,6 +10,6 @@ refName = ""
 refUrl = ""
 resources = []
 tags = ["skiing", "winter"]
-title = " Ski Broadmoor"
+title = "Ski Broadmoor"
 
 +++
