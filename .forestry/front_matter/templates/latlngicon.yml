@@ -96,6 +96,7 @@ fields:
 - type: file
   name: resource_
 pages:
+- content/posts/lost-ski-area/kremming-ski-hill.md
 - content/posts/lost-ski-area/idlewild.md
 - content/posts/lost-ski-area/homewood-park.md
 - content/posts/lost-ski-area/Grand Lake Ski Area.md
@@ -126,7 +127,6 @@ pages:
 - content/posts/resort/buttermilk.md
 - content/posts/lost-ski-area/sportsland-valley.md
 - content/posts/lost-ski-area/pease-hill.md
-- content/posts/lost-ski-area/kremming-ski-hill.md
 - content/posts/lost-ski-area/sagebrush.md
 - content/posts/lost-ski-area/school-hill.md
 - content/posts/lost-ski-area/mount-bross.md
