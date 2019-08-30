@@ -13,3 +13,12 @@ tags = ["skiing", "winter"]
 title = "Mount Lugo"
 
 +++
+Years Active:
+
+Skiable Acres:
+
+Number of Lifts:
+
+Top Elevation:
+
+Available for Exploring:
