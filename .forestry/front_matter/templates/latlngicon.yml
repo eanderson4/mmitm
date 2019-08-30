@@ -96,6 +96,7 @@ fields:
 - type: file
   name: resource_
 pages:
+- content/posts/resort/howelsen-hill-ski-area.md
 - content/posts/lost-ski-area/hidden-valley-1.md
 - content/posts/lost-ski-area/steamboat-lake-ski-area.md
 - content/posts/lost-ski-area/stagecoach.md
