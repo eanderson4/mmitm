@@ -96,6 +96,7 @@ fields:
 - type: file
   name: resource_
 pages:
+- content/posts/lost-ski-area/idlewild.md
 - content/posts/lost-ski-area/homewood-park.md
 - content/posts/lost-ski-area/Grand Lake Ski Area.md
 - content/posts/lost-ski-area/stagecoach.md
@@ -122,7 +123,6 @@ pages:
 - content/posts/lost-ski-area/montezuma-basin.md
 - content/posts/resort/cranor-hill.md
 - content/posts/resort/howelsen-hill-ski-area.md
-- content/posts/lost-ski-area/idlewild.md
 - content/posts/resort/buttermilk.md
 - content/posts/lost-ski-area/sportsland-valley.md
 - content/posts/lost-ski-area/pease-hill.md
