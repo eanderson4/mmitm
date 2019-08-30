@@ -14,3 +14,12 @@ tags = ["skiing", "winter"]
 title = "Homewood Park"
 
 +++
+Years Active:
+
+Skiable Acres:
+
+Number of Lifts:
+
+Top Elevation:
+
+Available for Exploring:
