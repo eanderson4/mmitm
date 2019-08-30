@@ -96,6 +96,7 @@ fields:
 - type: file
   name: resource_
 pages:
+- content/posts/lost-ski-area/ski-trail-mountain.md
 - content/posts/lost-ski-area/hidden-valley-1.md
 - content/posts/Backcountry/north-diamond-peak-1.md
 - content/posts/Backcountry/north-diamond-peak.md
@@ -112,7 +113,6 @@ pages:
 - content/posts/lost-ski-area/woodbine.md
 - content/posts/lost-ski-area/town-park.md
 - content/posts/lost-ski-area/tenderfoot.md
-- content/posts/lost-ski-area/ski-trail-mountain.md
 - content/posts/lost-ski-area/idlewild.md
 - content/posts/lost-ski-area/berthoud-pass.md
 - content/posts/lost-ski-area/tamarron.md
