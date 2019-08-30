@@ -96,6 +96,7 @@ fields:
 - type: file
   name: resource_
 pages:
+- content/posts/lost-ski-area/snow-king-valley.md
 - content/posts/lost-ski-area/sportsland-valley.md
 - content/posts/lost-ski-area/kremming-ski-hill.md
 - content/posts/lost-ski-area/idlewild.md
@@ -135,5 +136,4 @@ pages:
 - content/posts/resort/buttermilk.md
 - content/posts/resort/beaver-creek.md
 - content/posts/resort/beaver-creek.md
-- content/posts/lost-ski-area/snow-king-valley.md
 - content/posts/lost-ski-area/shadow-mountain.md
