@@ -96,6 +96,7 @@ fields:
 - type: file
   name: resource_
 pages:
+- content/posts/resort/cranor-hill.md
 - content/posts/lost-ski-area/catamount.md
 - content/posts/resort/howelsen-hill-ski-area.md
 - content/posts/lost-ski-area/hidden-valley-1.md
