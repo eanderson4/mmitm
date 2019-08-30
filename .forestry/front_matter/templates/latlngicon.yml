@@ -96,6 +96,7 @@ fields:
 - type: file
   name: resource_
 pages:
+- content/posts/lost-ski-area/sagebrush.md
 - content/posts/lost-ski-area/school-hill.md
 - content/posts/lost-ski-area/seven-utes.md
 - content/posts/lost-ski-area/shadow-mountain.md
@@ -133,7 +134,6 @@ pages:
 - content/posts/resort/howelsen-hill-ski-area.md
 - content/posts/resort/buttermilk.md
 - content/posts/lost-ski-area/pease-hill.md
-- content/posts/lost-ski-area/sagebrush.md
 - content/posts/resort/buttermilk.md
 - content/posts/resort/beaver-creek.md
 - content/posts/resort/beaver-creek.md
