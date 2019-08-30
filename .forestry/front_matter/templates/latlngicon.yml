@@ -96,6 +96,7 @@ fields:
 - type: file
   name: resource_
 pages:
+- content/posts/lost-ski-area/steamboat-lake-ski-area.md
 - content/posts/lost-ski-area/tabernash-hill.md
 - content/posts/lost-ski-area/tamarron.md
 - content/posts/lost-ski-area/tenderfoot.md
@@ -114,7 +115,6 @@ pages:
 - content/posts/lost-ski-area/hidden-valley-1.md
 - content/posts/Backcountry/north-diamond-peak-1.md
 - content/posts/Backcountry/north-diamond-peak.md
-- content/posts/lost-ski-area/steamboat-lake-ski-area.md
 - content/posts/lost-ski-area/seven-utes.md
 - content/posts/lost-ski-area/montezuma-basin.md
 - content/posts/lost-ski-area/Grand Lake Ski Area.md
