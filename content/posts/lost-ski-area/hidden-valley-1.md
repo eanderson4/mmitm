@@ -16,8 +16,14 @@ name = "Skiing Hidden Valley"
 src = "https://youtu.be/KBym_2La2iU"
 
 +++
-TEST
+Years Active: 1955-1991
 
-TEST
+Skiable Acres:
 
-TEST
+Number of Lifts:
+
+Top Elevation:
+
+Available for Exploring:
+
+Truth be told, if you Google "Hidden Valley Ski Area" you will find much more information then the typical "Lost Resort".  Located in Rocky Mountains National Park, this area is rich with ski history
