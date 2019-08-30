@@ -1,5 +1,5 @@
 +++
-Icon = "skier"
+Icon = "closed"
 categories = ["Lost Ski Area"]
 cshUrl = ""
 date = "2019-08-29T06:00:00+00:00"
