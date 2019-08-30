@@ -96,6 +96,7 @@ fields:
 - type: file
   name: resource_
 pages:
+- content/posts/lost-ski-area/shadow-mountain.md
 - content/posts/lost-ski-area/mount-bross.md
 - content/posts/lost-ski-area/montezuma-basin.md
 - content/posts/lost-ski-area/maggie-s-ski-hill.md
@@ -136,4 +137,3 @@ pages:
 - content/posts/resort/buttermilk.md
 - content/posts/resort/beaver-creek.md
 - content/posts/resort/beaver-creek.md
-- content/posts/lost-ski-area/shadow-mountain.md
