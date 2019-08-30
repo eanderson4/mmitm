@@ -96,6 +96,7 @@ fields:
 - type: file
   name: resource_
 pages:
+- content/posts/lost-ski-area/Grand Lake Ski Area.md
 - content/posts/lost-ski-area/emerald-mountain.md
 - content/posts/resort/cranor-hill.md
 - content/posts/lost-ski-area/catamount.md
