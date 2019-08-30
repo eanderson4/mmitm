@@ -13,3 +13,12 @@ tags = ["skiing", "winter"]
 title = "Lowell Whiteman"
 
 +++
+Years Active:
+
+Skiable Acres:
+
+Number of Lifts:
+
+Top Elevation:
+
+Available for Exploring:
