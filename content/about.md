@@ -20,4 +20,4 @@ MMitM wants to do more though.  We provides a Wiki style sites that strives to c
 
 ## Social Aspect
 
-MMitM wants to connect Back country skiers, historians, explores and generally curious people.  We provide information, location and maps and you provide your stories, weather reports, and photos in the comment section!
+MMitM wants to connect you; the back country skiers, historians, explores and generally curious people.  We provide information and location and you provide your stories, weather, and photos in the comment section!
