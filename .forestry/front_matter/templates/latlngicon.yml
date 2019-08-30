@@ -96,6 +96,8 @@ fields:
 - type: file
   name: resource_
 pages:
+- content/posts/lost-ski-area/catamount.md
+- content/posts/lost-ski-area/bungalow-hill.md
 - content/posts/lost-ski-area/bowes-hill.md
 - content/posts/lost-ski-area/berthoud-pass.md
 - content/posts/lost-ski-area/ski-trail-mountain.md
@@ -104,7 +106,6 @@ pages:
 - content/posts/Backcountry/north-diamond-peak.md
 - content/posts/lost-ski-area/emerald-mountain.md
 - content/posts/lost-ski-area/steamboat-lake-ski-area.md
-- content/posts/lost-ski-area/catamount.md
 - content/posts/lost-ski-area/seven-utes.md
 - content/posts/lost-ski-area/montezuma-basin.md
 - content/posts/lost-ski-area/Grand Lake Ski Area.md
@@ -124,7 +125,6 @@ pages:
 - content/posts/lost-ski-area/sagebrush.md
 - content/posts/lost-ski-area/columbine-guest-ranch-ski-hill.md
 - content/posts/lost-ski-area/tabernash-hill.md
-- content/posts/lost-ski-area/bungalow-hill.md
 - content/posts/lost-ski-area/school-hill.md
 - content/posts/lost-ski-area/mount-bross.md
 - content/posts/lost-ski-area/maggie-s-ski-hill.md

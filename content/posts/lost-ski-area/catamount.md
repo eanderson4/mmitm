@@ -14,3 +14,12 @@ tags = ["skiing", "winter"]
 title = "Catamount"
 
 +++
+Years Active:
+
+Skiable Acres:
+
+Number of Lifts:
+
+Top Elevation:
+
+Available for Exploring:
