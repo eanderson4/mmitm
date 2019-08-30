@@ -96,6 +96,7 @@ fields:
 - type: file
   name: resource_
 pages:
+- content/posts/lost-ski-area/bowes-hill.md
 - content/posts/lost-ski-area/berthoud-pass.md
 - content/posts/lost-ski-area/ski-trail-mountain.md
 - content/posts/lost-ski-area/hidden-valley-1.md
@@ -110,7 +111,6 @@ pages:
 - content/posts/resort/cranor-hill.md
 - content/posts/resort/howelsen-hill-ski-area.md
 - content/posts/lost-ski-area/stagecoach.md
-- content/posts/lost-ski-area/bowes-hill.md
 - content/posts/lost-ski-area/woodbine.md
 - content/posts/lost-ski-area/town-park.md
 - content/posts/lost-ski-area/tenderfoot.md
