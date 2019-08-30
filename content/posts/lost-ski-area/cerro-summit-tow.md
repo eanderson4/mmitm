@@ -12,4 +12,14 @@ tags = ["skiing", "winter"]
 title = "Cerro Summit Tow"
 
 +++
+Years Active:
+
+Skiable Acres:
+
+Number of Lifts:
+
+Top Elevation:
+
+Available for Exploring:
+
 [http://www.coloradoskihistory.com/lost/cerrosummit.html](http://www.coloradoskihistory.com/lost/cerrosummit.html "http://www.coloradoskihistory.com/lost/cerrosummit.html")
