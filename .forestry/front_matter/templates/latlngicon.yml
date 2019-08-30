@@ -96,6 +96,7 @@ fields:
 - type: file
   name: resource_
 pages:
+- content/posts/lost-ski-area/conouistador-ski-area.md
 - content/posts/lost-ski-area/columbine-guest-ranch-ski-hill.md
 - content/posts/lost-ski-area/catamount.md
 - content/posts/lost-ski-area/bungalow-hill.md
@@ -132,7 +133,6 @@ pages:
 - content/posts/lost-ski-area/frosty-basin.md
 - content/posts/lost-ski-area/leland-jackson-carmichael-ouray-ranch-ski-hill.md
 - content/posts/resort/buttermilk.md
-- content/posts/lost-ski-area/conouistador-ski-area.md
 - content/posts/resort/beaver-creek.md
 - content/posts/resort/beaver-creek.md
 - content/posts/lost-ski-area/snow-king-valley.md
