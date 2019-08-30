@@ -14,3 +14,12 @@ tags = ["skiing", "winter"]
 title = "Frosty Basin"
 
 +++
+Years Active:
+
+Skiable Acres:
+
+Number of Lifts:
+
+Top Elevation:
+
+Available for Exploring:
