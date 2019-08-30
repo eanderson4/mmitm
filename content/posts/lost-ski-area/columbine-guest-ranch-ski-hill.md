@@ -14,3 +14,12 @@ tags = ["skiing", "winter"]
 title = "Columbine Guest Ranch (Ski Hill)"
 
 +++
+Years Active:
+
+Skiable Acres:
+
+Number of Lifts:
+
+Top Elevation:
+
+Available for Exploring:
