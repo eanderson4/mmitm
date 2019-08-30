@@ -96,6 +96,7 @@ fields:
 - type: file
   name: resource_
 pages:
+- content/posts/lost-ski-area/town-park.md
 - content/posts/lost-ski-area/woodbine.md
 - content/posts/lost-ski-area/frosty-basin.md
 - content/posts/lost-ski-area/emerald-mountain.md
@@ -117,7 +118,6 @@ pages:
 - content/posts/resort/cranor-hill.md
 - content/posts/resort/howelsen-hill-ski-area.md
 - content/posts/lost-ski-area/stagecoach.md
-- content/posts/lost-ski-area/town-park.md
 - content/posts/lost-ski-area/tenderfoot.md
 - content/posts/lost-ski-area/idlewild.md
 - content/posts/lost-ski-area/tamarron.md
