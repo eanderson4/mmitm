@@ -14,3 +14,4 @@ tags = ["skiing", "winter"]
 title = "Leland Jackson – Carmichael – Ouray Ranch Ski Hill "
 
 +++
+I just talked with the curator at the Vail Ski history Museum and they are putting me in touch with the coloradoskihistory guy
