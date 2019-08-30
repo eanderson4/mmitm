@@ -1,8 +1,8 @@
 ---
 title: About
-date: 2017-08-20 13:38:52 +0000
-lastmod: 2017-08-28 13:41:52 +0000
-weight: 50
+date: 2017-08-20T13:38:52.000+00:00
+lastmod: 2017-08-28T13:41:52.000+00:00
+weight: "50"
 menu:
   main:
     weight: 50
@@ -10,12 +10,12 @@ menu:
 ---
 # Meet Me in the Mountains (MMitM)
 
-Meet Me in the Mountains is a public resource that encourages user interaction and knowledge.  The goal is to create an community that is fascinated by the history of our closed and lost ski resorts and back-country area.  
+Meet Me in the Mountains is a public resource that encourages user interaction by providing their knowledge of a lost ski area.  The goal is to create an community that is fascinated by the Colorado mountains and the history they hold.  This knowledge base can then be used by back country enthusiasts and explorers alike. 
 
 ## Lost Resorts
 
-<a href="http://coloradoskihistory.com">Colorado Ski History</a> provides an excellent historical ski sites.  MMitM's strives to make  accessible and to be able to access it through a mapping interface.
+<a href="http://coloradoskihistory.com">Colorado Ski History</a> provides a Wiki style historical ski sites.  MMitM's strives to contently learn more about lost ski areas by providing a location, brief history, and a comment section for updates or stories.
 
 ## Social Aspect
 
-MMitM wants to connect like-minded people.  We provide a simple comment section to make notes on any post.
+M.M.M wants to connect Back country skiers, historians, explores and generally curious people.  We provide a simple comment section so you can provide your stories and feedback about listed locations
