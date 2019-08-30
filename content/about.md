@@ -10,11 +10,11 @@ menu:
 ---
 # Meet Me in the Mountains (MMitM)
 
-Meet Me in the Mountains is a public resource that encourages user interaction by providing their knowledge of a lost ski area.  The goal is to create an community that is fascinated by the Colorado mountains and the history they hold.  This knowledge base can then be used by back country enthusiasts and explorers alike.
+Meet Me in the Mountains is a public resource that encourages user interaction by providing their knowledge.  The goal is to create a dynamic knowledge base of all the lost ski areas.  This knowledge base can then be used by back country enthusiasts, explorers, and historians alike.
 
 ## Lost Resorts
 
-<a href="http://coloradoskihistory.com">Colorado Ski History</a> is an excellent resource that we have used to help with locations, opperation dates and lift information.  MMitM provides a Wiki style sites that strives to contently learn more about lost ski areas by providing a location, brief history, and a comment section for updates or stories.
+<a href="http://coloradoskihistory.com">Colorado Ski History</a> is an excellent resource that we have used to help with locations, operation dates, and lift information.  MMitM wants to do more though.  We provides a Wiki style sites that strives to constantly learn more about lost ski areas.  Even if users don't have anything to contribute from a history standpoint, we hope to create a local form so those who have been to the area can report on (snowpack, weather, pictures, etc)
 
 ## Social Aspect
 
