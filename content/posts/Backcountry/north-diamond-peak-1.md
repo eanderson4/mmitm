@@ -1,11 +1,11 @@
 +++
 Icon = "mountain"
-categories = ["Resort", "Lost Ski Area", "Backcountry"]
+categories = ["Backcountry"]
 cshUrl = ""
 date = "2019-03-18T06:00:00+00:00"
 lastmod = "2019-03-18T06:00:00+00:00"
-lat = 40.514044
-lng = -105.904141
+lat = "40.514044"
+lng = "-105.904141"
 refName = ""
 refUrl = ""
 resource_ = ""
