@@ -96,6 +96,7 @@ fields:
 - type: file
   name: resource_
 pages:
+- content/posts/lost-ski-area/stagecoach.md
 - content/posts/lost-ski-area/bowes-hill.md
 - content/posts/Backcountry/north-diamond-peak-1.md
 - content/posts/lost-ski-area/woodbine.md
